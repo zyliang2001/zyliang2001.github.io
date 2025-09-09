@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Zhongyuan Liang's Homepage"
+title                    : "Zhongyuan Liang"
 title_separator          : "-"
 name                     : &name "Zhongyuan Liang"
 description              : &description "personal description"
